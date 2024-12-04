@@ -95,6 +95,57 @@
 </div>
 </div>
 
+<!-- Projects Section -->
+<h2 align="center">🚀 Featured Projects</h2>
+<div align="center">
+  <!-- YeonsungJobFind Project -->
+  <table>
+    <tr>
+      <td align="center" width="60%">
+        <h3>📱 YeonsungJobFind</h3>
+        <p>연성대학교 학생들을 위한 맞춤형 채용정보 제공 플랫폼</p>
+        <p>
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+          <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        </p>
+        <p>
+          <a href="[프로젝트 링크]">
+            <img src="https://img.shields.io/badge/View_Project-FF4785?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+          </a>
+        </p>
+      </td>
+      <td align="center" width="40%">
+        <img src="https://github.com/user-attachments/assets/f84dd9e5-c164-468d-b2cb-736d0113cdb9" width="200" alt="YeonsungJobFind Screenshot"/>
+      </td>
+    </tr>
+  </table>
+
+  <!-- SignLanguage Project -->
+  <table>
+    <tr>
+      <td align="center" width="60%">
+        <h3>🤖 SignLanguage</h3>
+        <p>수어 번역 및 학습을 위한 AI 기반 애플리케이션</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+        </p>
+        <p>
+          <a href="[프로젝트 링크]">
+            <img src="https://img.shields.io/badge/View_Project-FF4785?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+          </a>
+        </p>
+      </td>
+      <td align="center" width="40%">
+        <img src="https://github.com/user-attachments/assets/cb0f4383-a191-4209-9f0e-5d9f51fa0e5b" width="300" alt="SignLanguage Screenshot"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Statistics</h2>
 <div align="center">
