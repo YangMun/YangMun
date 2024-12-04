@@ -95,55 +95,48 @@
 </div>
 </div>
 
-<!-- Projects Section -->
 <h2 align="center">🚀 Featured Projects</h2>
-<div align="center">
-  <!-- YeonsungJobFind Project -->
-  <table>
-    <tr>
-      <td align="center" width="60%">
-        <h3>📱 YeonsungJobFind</h3>
-        <p>연성대학교 학생들을 위한 맞춤형 채용정보 제공 플랫폼</p>
-        <p>
-          <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-          <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-        </p>
-        <p>
-          <a href="[프로젝트 링크]">
-            <img src="https://img.shields.io/badge/View_Project-FF4785?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-          </a>
-        </p>
-      </td>
-      <td align="center" width="40%">
-        <img src="https://github.com/user-attachments/assets/f84dd9e5-c164-468d-b2cb-736d0113cdb9" width="200" alt="YeonsungJobFind Screenshot"/>
-      </td>
-    </tr>
-  </table>
-
-  <!-- SignLanguage Project -->
-  <table>
-    <tr>
-      <td align="center" width="60%">
-        <h3>🤖 SignLanguage</h3>
-        <p>수어 번역 및 학습을 위한 AI 기반 애플리케이션</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-        </p>
-        <p>
-          <a href="[프로젝트 링크]">
-            <img src="https://img.shields.io/badge/View_Project-FF4785?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-          </a>
-        </p>
-      </td>
-      <td align="center" width="40%">
-        <img src="https://github.com/user-attachments/assets/cb0f4383-a191-4209-9f0e-5d9f51fa0e5b" width="300" alt="SignLanguage Screenshot"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+<tr>
+<td width="50%">
+  <h3 align="center">YeonsungJobFind</h3>
+  <div align="center">  
+    <a href="https://github.com/YangMun/YeonsungJobFind">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YangMun&repo=YeonsungJobFind&theme=tokyonight&hide_border=true" alt="YeonsungJobFind" />
+    </a>
+    <br><br>
+    <p>📝 <strong>Description:</strong> 연성대학교 학생들을 위한 맞춤형 취업 정보 제공 플랫폼</p>
+    <p>💡 <strong>Features:</strong> 채용정보 자동수집, 학과별 맞춤정보, 실시간 알림</p>
+    <p>🛠️ <strong>Tech Stack:</strong></p>
+    <div>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+    </div>
+  </div>
+</td>
+<td width="50%">
+  <h3 align="center">SignLanguage</h3>
+  <div align="center">
+    <a href="https://github.com/YangMun/SignLanguage">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YangMun&repo=SignLanguage&theme=tokyonight&hide_border=true" alt="SignLanguage" />
+    </a>
+    <br><br>
+    <p>📝 <strong>Description:</strong> 수어를 번역하여 청각장애인과 비장애인 간의 소통을 돕는 프로젝트</p>
+    <p>💡 <strong>Features:</strong> 실시간 수어인식, 텍스트 변환, 사용자 친화적 UI</p>
+    <p>🛠️ <strong>Tech Stack:</strong></p>
+    <div>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/MediaPipe-00FF00?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+    </div>
+  </div>
+</td>
+</tr>
+</table>
 
 
 <!-- GitHub Stats -->
