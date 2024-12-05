@@ -17,7 +17,7 @@
       </td>
       <td width="50%">
         <h3>
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=300&lines=About+Me+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="About me" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=300&lines=About+Me" alt="About me" />
         </h3>
         <p align="center" style="font-size: 16px; line-height: 1.8;">
           안녕하세요! 사용자 친화적 서비스를 구현하는<br>
