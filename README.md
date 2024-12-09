@@ -21,7 +21,7 @@
         </h3>
         <p align="center" style="font-size: 16px; line-height: 1.8;">
           안녕하세요! 사용자 친화적 서비스를 구현하는<br>
-          데이터베이스 전문가 <strong>양문경</strong>입니다 👋<br><br>
+          <strong>양문경</strong>입니다 👋<br><br>
           ✨ User-Friendly 서비스 구현<br>
           📊 데이터 완벽 관리<br>
           💡 효율적인 프로시저 개발
