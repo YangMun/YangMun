@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="414" viewBox="0 0 980 414" role="img" aria-label="YangMun profile">
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="441" viewBox="0 0 980 441" role="img" aria-label="YangMun profile">
 <style>
 text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 11.0px; white-space: pre; }
 .art  { fill: #57606a; font-size: 5.9px; }
@@ -73,30 +73,32 @@ text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation M
 <text x="14.0" y="380.9" xml:space="preserve"><tspan class="art">@@@@WWWWWWWWWWWWWWWWWWWW@W@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan></text>
 <text x="14.0" y="387.6" xml:space="preserve"><tspan class="art">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan></text>
 <text x="14.0" y="394.3" xml:space="preserve"><tspan class="art">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan></text>
-<text x="601.8" y="24.4" xml:space="preserve"><tspan class="usr">yangmun@github</tspan><tspan class="dim"> ────────────────────────────────────────</tspan></text>
+<text x="601.8" y="24.4" xml:space="preserve"><tspan class="usr">This is who I am</tspan><tspan class="dim"> ──────────────────────────────────────</tspan></text>
 <text x="601.8" y="37.8" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">OS:</tspan><tspan class="dim"> ................................. </tspan><tspan class="val">macOS, iOS, Web</tspan></text>
 <text x="601.8" y="51.2" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Uptime:</tspan><tspan class="dim"> ........ </tspan><tspan class="val">7 years, 0 months, 22 days on GitHub</tspan></text>
-<text x="601.8" y="64.6" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Host:</tspan><tspan class="dim"> .................. </tspan><tspan class="val">Indie Developer, South Korea</tspan></text>
-<text x="601.8" y="78.0" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Kernel:</tspan><tspan class="dim"> ................ </tspan><tspan class="val">Swift-first, ships apps solo</tspan></text>
-<text x="601.8" y="91.4" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">IDE:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">Xcode, VS Code, Claude Code</tspan></text>
-<text x="601.8" y="104.8" xml:space="preserve"><tspan class="dim">.</tspan></text>
-<text x="601.8" y="118.2" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Languages.Programming:</tspan><tspan class="dim"> .... </tspan><tspan class="val">Swift, TypeScript, Python</tspan></text>
-<text x="601.8" y="131.6" xml:space="preserve"><tspan class="dim">. .................................... </tspan><tspan class="val">JavaScript, Java</tspan></text>
-<text x="601.8" y="145.0" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Languages.Framework:</tspan><tspan class="dim"> . </tspan><tspan class="val">SwiftUI, Expo, Firebase, Astro</tspan></text>
-<text x="601.8" y="158.4" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Languages.Real:</tspan><tspan class="dim"> ..................... </tspan><tspan class="val">Korean, English</tspan></text>
-<text x="601.8" y="171.8" xml:space="preserve"><tspan class="dim">.</tspan></text>
-<text x="601.8" y="185.2" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Hobbies.Software:</tspan><tspan class="dim"> .... </tspan><tspan class="val">Building small apps end-to-end</tspan></text>
-<text x="601.8" y="198.6" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Hobbies.ML:</tspan><tspan class="dim"> ........... </tspan><tspan class="val">Vision &amp; sign-language models</tspan></text>
-<text x="601.8" y="225.4" xml:space="preserve"><tspan class="dim">- </tspan><tspan class="sec">Now Shipping</tspan><tspan class="dim"> ────────────────────────────────────────</tspan></text>
-<text x="601.8" y="238.8" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">SkyClock:</tspan><tspan class="dim"> .......... </tspan><tspan class="val">the hour&#x27;s name + live sky (iOS)</tspan></text>
-<text x="601.8" y="252.2" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Dayline:</tspan><tspan class="dim"> ................. </tspan><tspan class="val">one line a day diary (iOS)</tspan></text>
-<text x="601.8" y="265.6" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Waterday:</tspan><tspan class="dim"> ............ </tspan><tspan class="val">plant watering companion (iOS)</tspan></text>
-<text x="601.8" y="279.0" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">OnDutyCal:</tspan><tspan class="dim"> ... </tspan><tspan class="val">shift calculators for US workers (Web)</tspan></text>
-<text x="601.8" y="305.8" xml:space="preserve"><tspan class="dim">- </tspan><tspan class="sec">Contact</tspan><tspan class="dim"> ─────────────────────────────────────────────</tspan></text>
-<text x="601.8" y="319.2" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Email:</tspan><tspan class="dim"> ......................... </tspan><tspan class="val">yang486741@gmail.com</tspan></text>
-<text x="601.8" y="332.6" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">GitHub:</tspan><tspan class="dim"> .......................... </tspan><tspan class="val">github.com/YangMun</tspan></text>
-<text x="601.8" y="346.0" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Web:</tspan><tspan class="dim"> .................................. </tspan><tspan class="val">ondutycal.com</tspan></text>
-<text x="601.8" y="372.8" xml:space="preserve"><tspan class="dim">- </tspan><tspan class="sec">GitHub Stats</tspan><tspan class="dim"> ────────────────────────────────────────</tspan></text>
-<text x="601.8" y="386.2" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Repos:</tspan><tspan class="dim"> .................. </tspan><tspan class="val">34 public  |  Commits: 590+</tspan></text>
-<text x="601.8" y="399.6" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Followers:</tspan><tspan class="dim"> .... </tspan><tspan class="val">106  |  Following: 68  |  Since: 2019</tspan></text>
+<text x="601.8" y="64.6" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Age:</tspan><tspan class="dim"> ........................... </tspan><tspan class="val">24 (born 2001.10.29)</tspan></text>
+<text x="601.8" y="78.0" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Job:</tspan><tspan class="dim"> .................. </tspan><tspan class="val">Soldier (on military service)</tspan></text>
+<text x="601.8" y="91.4" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Host:</tspan><tspan class="dim"> .................. </tspan><tspan class="val">Indie Developer, South Korea</tspan></text>
+<text x="601.8" y="104.8" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Kernel:</tspan><tspan class="dim"> ................ </tspan><tspan class="val">Swift-first, ships apps solo</tspan></text>
+<text x="601.8" y="118.2" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">IDE:</tspan><tspan class="dim"> .................... </tspan><tspan class="val">Xcode, VS Code, Claude Code</tspan></text>
+<text x="601.8" y="131.6" xml:space="preserve"><tspan class="dim">.</tspan></text>
+<text x="601.8" y="145.0" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Languages.Programming:</tspan><tspan class="dim"> .... </tspan><tspan class="val">Swift, TypeScript, Python</tspan></text>
+<text x="601.8" y="158.4" xml:space="preserve"><tspan class="dim">. .................................... </tspan><tspan class="val">JavaScript, Java</tspan></text>
+<text x="601.8" y="171.8" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Languages.Framework:</tspan><tspan class="dim"> . </tspan><tspan class="val">SwiftUI, Expo, Firebase, Astro</tspan></text>
+<text x="601.8" y="185.2" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Languages.Real:</tspan><tspan class="dim"> ..................... </tspan><tspan class="val">Korean, English</tspan></text>
+<text x="601.8" y="198.6" xml:space="preserve"><tspan class="dim">.</tspan></text>
+<text x="601.8" y="212.0" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Hobbies.Software:</tspan><tspan class="dim"> .... </tspan><tspan class="val">Building small apps end-to-end</tspan></text>
+<text x="601.8" y="225.4" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Hobbies.ML:</tspan><tspan class="dim"> ........... </tspan><tspan class="val">Vision &amp; sign-language models</tspan></text>
+<text x="601.8" y="252.2" xml:space="preserve"><tspan class="dim">- </tspan><tspan class="sec">Now Shipping</tspan><tspan class="dim"> ────────────────────────────────────────</tspan></text>
+<text x="601.8" y="265.6" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">SkyClock:</tspan><tspan class="dim"> .......... </tspan><tspan class="val">the hour&#x27;s name + live sky (iOS)</tspan></text>
+<text x="601.8" y="279.0" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Dayline:</tspan><tspan class="dim"> ................. </tspan><tspan class="val">one line a day diary (iOS)</tspan></text>
+<text x="601.8" y="292.4" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Waterday:</tspan><tspan class="dim"> ............ </tspan><tspan class="val">plant watering companion (iOS)</tspan></text>
+<text x="601.8" y="305.8" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">OnDutyCal:</tspan><tspan class="dim"> ... </tspan><tspan class="val">shift calculators for US workers (Web)</tspan></text>
+<text x="601.8" y="332.6" xml:space="preserve"><tspan class="dim">- </tspan><tspan class="sec">Contact</tspan><tspan class="dim"> ─────────────────────────────────────────────</tspan></text>
+<text x="601.8" y="346.0" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Email:</tspan><tspan class="dim"> ......................... </tspan><tspan class="val">yang486741@gmail.com</tspan></text>
+<text x="601.8" y="359.4" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">GitHub:</tspan><tspan class="dim"> .......................... </tspan><tspan class="val">github.com/YangMun</tspan></text>
+<text x="601.8" y="372.8" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Web:</tspan><tspan class="dim"> ............................................... </tspan></text>
+<text x="601.8" y="399.6" xml:space="preserve"><tspan class="dim">- </tspan><tspan class="sec">GitHub Stats</tspan><tspan class="dim"> ────────────────────────────────────────</tspan></text>
+<text x="601.8" y="413.0" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Repos:</tspan><tspan class="dim"> .................. </tspan><tspan class="val">34 public  |  Commits: 590+</tspan></text>
+<text x="601.8" y="426.4" xml:space="preserve"><tspan class="dim">. </tspan><tspan class="lbl">Followers:</tspan><tspan class="dim"> .... </tspan><tspan class="val">106  |  Following: 68  |  Since: 2019</tspan></text>
 </svg>
